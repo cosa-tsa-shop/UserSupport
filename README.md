@@ -1,28 +1,14 @@
 # UserSupport
 
-Repository dedicated to user support around Time Series Analysis and JDemetra+ software.
+Repository dedicated to user support around Time Series Analysis with JDemetra+ software.
+
+First, you can look up the online [Documentation](https://jdemetra-new-documentation.netlify.app/) 
 
 Feel free to ask questions by raising new issues [here](https://github.com/stace-tsa-shop/UserSupport/issues/new)
 
-Or in the repository dedicated to the tool or algorithm you encouter problems with 
+Or in the repository dedicated to the tool or algorithm you encouter specific problems with, see categories listed below: 
 
-
-## JDemetra+: Graphical user  and the core algorithms
-
-All the kave code is located in the [jdemetra](https://github.com/jdemetra) organisation:
-
-### JDemetra+ v3
-
-- [jdplus-main](https://github.com/jdemetra/jdplus-main): **main repository**
-
-### JDemetra+ v2
-
-- [jdemetra-core](https://github.com/jdemetra/jdemetra-core): core libraries
-- [jdemetra-app](https://github.com/jdemetra/jdemetra-app): desktop application
-- [jwsacruncher](https://github.com/jdemetra/jwsacruncher): tool that re-estimates a workspace multiprocessing
-
-
-## JDemetra+: the R ecosystem
+## rjdverse: JDemetra R ecosystem
 
 All packages are located in the [rjdverse](https://github.com/rjdverse) organisation:
 
@@ -43,7 +29,18 @@ tests, generating regressors)
 
 Additional R tools for JDemetra+ v3.x: [rjwsacruncher](https://github.com/AQLT/rjwsacruncher), [ggdemetra3](https://github.com/AQLT/ggdemetra3)
 
+## JDemetra+: Graphical User Interface and core java algorithms
 
-## More documentation
+All the code is located in the [jdemetra](https://github.com/jdemetra) organisation:
 
-You can find the online [Documentation](https://jdemetra-new-documentation.netlify.app/) and the [Blog](https://jdemetra-universe-blog.netlify.app/).
+### JDemetra+ v3
+
+- [jdplus-main](https://github.com/jdemetra/jdplus-main): **main repository**
+
+### JDemetra+ v2
+
+- [jdemetra-core](https://github.com/jdemetra/jdemetra-core): core libraries
+- [jdemetra-app](https://github.com/jdemetra/jdemetra-app): desktop application
+- [jwsacruncher](https://github.com/jdemetra/jwsacruncher): tool that re-estimates a workspace multiprocessing
+
+
