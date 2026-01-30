@@ -1,13 +1,15 @@
 # UserSupport
 
-Repository to help users find their way around the organisation of time series tools relating to JDemetra+ software.
+Repository dedicated to user support around Time Series Analysis and JDemetra+ software.
 
-Feel free to ask questions by raising new issues in the associated directories or [here](https://github.com/stace-tsa-shop/UserSupport/issues/new).
+Feel free to ask questions by raising new issues [here](https://github.com/stace-tsa-shop/UserSupport/issues/new)
+
+Or in the repository dedicated to the tool or algorithm you encouter problems with 
 
 
-## JDemetra+: the GUI and the core algorithms
+## JDemetra+: Graphical user  and the core algorithms
 
-All the code are located in the [jdemetra](https://github.com/jdemetra) organisation:
+All the kave code is located in the [jdemetra](https://github.com/jdemetra) organisation:
 
 ### JDemetra+ v3
 
