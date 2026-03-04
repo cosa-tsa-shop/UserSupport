@@ -3,6 +3,7 @@
 Repository dedicated to user support around Time Series Analysis with JDemetra+ software.
 
 First, you can look up the online [Documentation](https://jdemetra-new-documentation.netlify.app/) 
+For specific questions related production of seasonally adjusted series you can look up [these pages](https://saproductionwithjdemetraandr.netlify.app/)
 
 Feel free to ask questions by raising new issues [here](https://github.com/stace-tsa-shop/UserSupport/issues/new)
 
