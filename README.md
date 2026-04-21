@@ -2,9 +2,9 @@
 
 Repository dedicated to user support around Time Series Analysis with JDemetra+ software.
 
-First, you can look up the online [Documentation](https://jdemetra-new-documentation.netlify.app/) 
+First, you can look up the online [Documentation](https://doc.jdemetra.org/) 
 
-For specific questions related production of seasonally adjusted series you can look up [these pages](https://saproductionwithjdemetraandr.netlify.app/)
+For specific questions related production of seasonally adjusted series you can look up [these pages](https://prod.jdemetra.org/)
 
 Feel free to ask questions by raising new issues [here](https://github.com/stace-tsa-shop/UserSupport/issues/new)
 
@@ -31,7 +31,7 @@ tests, generating regressors)
 
 Additional R tools for JDemetra+ v3.x: [rjwsacruncher](https://github.com/AQLT/rjwsacruncher), [ggdemetra3](https://github.com/AQLT/ggdemetra3)
 
-## JDemetra+: Graphical User Interface and core java algorithms
+## JDemetra+: Graphical User Interface and core java algorithmdoc.je
 
 All the code is located in the [jdemetra](https://github.com/jdemetra) organisation:
 
